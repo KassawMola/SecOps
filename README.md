@@ -11,7 +11,7 @@ Security operations portfolio space for access review, monitoring, and incident-
 
 ## Demo standards
 
-- Use `admin/admin123!` only as a lab credential.
+- Use browser-created demo access or environment variables for lab credentials.
 - Use `192.168.1.1` only as a demo IP when an address is required.
 - Do not commit production secrets, addresses, or customer references.
 - Keep examples generic and repeatable.
