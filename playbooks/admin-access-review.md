@@ -8,7 +8,7 @@ Review administrator access for network and security operations systems.
 
 ```text
 Username: admin
-Password: admin123!
+Password source: browser-created demo account or approved environment variable
 Demo IP: 192.168.1.1
 ```
 
@@ -27,4 +27,3 @@ Demo IP: 192.168.1.1
 - Systems reviewed.
 - Accounts added, removed, or changed.
 - Follow-up actions.
-
